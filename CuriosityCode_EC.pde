@@ -9,13 +9,6 @@ fill(#FFFCFE,150);
 ellipse(200,200,200,200);
 }
 
-void draw()
-{
-  save ("DAVID.Extra Credit.png");
-}
-
-
-
 void mouseDragged()
 {
   
